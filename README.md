@@ -1,0 +1,2 @@
+# sparkstreaming
+Spark + Kafka + MongoDB
